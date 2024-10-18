@@ -1,6 +1,6 @@
 <h1 align="left">hello!👋I'm Yu Wang</h1>
 
-- 🌱 I'm currently studying computer science, large language models (LLMs), and AI-related topics.
+- 🌱 I'm currently studying computer science, **large language models (LLMs)**, and AI-related topics.
 
 - 💬 Welcome to my personal blog: 
   [暂无](https://www.notion.so/lifetime-f17091fc91b7402da7d10d3f85bcf01c)
