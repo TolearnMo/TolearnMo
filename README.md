@@ -1,16 +1,13 @@
-## Hi there 👋
-
+## Hello!
 <!--
-**TolearnMo/TolearnMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+注释内容
 -->
+- 🌱 I'm currently studying computer science, large language models (LLMs), and AI-related topics.
+
+- 💬 Welcome to my personal blog: 
+  [暂无](https://www.notion.so/lifetime-f17091fc91b7402da7d10d3f85bcf01c)
+- 📫 How to reach me:
+  [暂无]()
+
+- ⚡ Fun fact: ***Live with gusto and pesto***
+## 
