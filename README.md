@@ -1,6 +1,6 @@
 <h1 align="left">hello!👋I'm Yu Wang</h1>
 <!--  -->
-<img src="assets/banner.jpg" alt="风景" title="Have a good time">
+<img src="imgs/banner.jpg" alt="风景" title="Have a good time">
 
 <p align="center">
   <a href="https://github.com/TolearnMo">
